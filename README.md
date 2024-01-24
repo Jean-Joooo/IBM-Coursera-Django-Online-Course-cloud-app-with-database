@@ -1,4 +1,4 @@
-IBM Developer Skills Network - Project cloud app with database
+IBM Coursera Full Stack courses - Project cloud app with database :
 
 Welcome in one of my journey as IBM Full Stack Software Developer ! In this final project of my Django SQL & Databases classes, I had the exciting opportunity to enhance an online course app by introducing a brand-new assessment feature. This endeavor provided a platform to showcase my skills in development, deployment, and database management.
 
